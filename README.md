@@ -1,7 +1,8 @@
 materials
 =========
 
-Original image materials by Masanori Ohgita.
+Original image-materials (icons) by Masanori Ohgita.
+for application software and web, etc...
 
 
 ### About the distribution at official sites
