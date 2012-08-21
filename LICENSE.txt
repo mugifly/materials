@@ -1,0 +1,6 @@
+Copyright (c) 2012 Masanori Ohgita (http://ohgita.info/).
+
+This work (include: materials(SVG,Image-files) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.1 Japan License (表示 - 非営利 - 継承 2.1 日本).
+ * English: http://creativecommons.org/licenses/by-nc-sa/2.1/jp/deed.en
+ * Japanse: http://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+ 
