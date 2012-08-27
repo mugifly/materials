@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg5913"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="mouse-pointer.svg"
+   inkscape:export-filename="/home/masanori/aptana_workspace/materials/mouse-pointer/mouse-pointer.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title6040">mouse-pointer</title>
+  <defs
+     id="defs5915">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5869">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.98439118"
+         id="feGaussianBlur5871" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5869-0">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.98439118"
+         id="feGaussianBlur5871-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5869-05">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.98439118"
+         id="feGaussianBlur5871-2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9445436"
+     inkscape:cx="-28.040797"
+     inkscape:cy="32.160938"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="874"
+     inkscape:window-height="465"
+     inkscape:window-x="0"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5918">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mouse-pointer</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/jp/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="shadow">
+    <g
+       style="fill:#000000;fill-opacity:0.38007382;stroke:none;display:inline;filter:url(#filter5869-05)"
+       id="g5817-3"
+       transform="matrix(0.60287013,0,0,0.60287013,-412.22676,-143.76611)">
+      <path
+         sodipodi:nodetypes="sscccccs"
+         style="fill:#000000;fill-opacity:0.38007382;stroke:none"
+         d="m 725.61323,250.66552 c -1.48546,0.39803 -14.28214,48.46944 -13.19471,49.55689 0.46455,0.46455 9.8739,-1.79537 20.09892,-4.44938 l 13.04128,36.51559 9.35904,-6.75078 -12.27415,-32.5265 c 10.02003,-2.77577 19.16389,-5.5105 19.33179,-6.13707 0.39803,-1.48547 -34.87671,-36.60677 -36.36217,-36.20875 z"
+         id="path5803-0"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="pointer"
+     inkscape:groupmode="layer">
+    <g
+       id="g5817"
+       transform="matrix(0.60287013,0,0,0.60287013,-414.59471,-144.95045)">
+      <path
+         sodipodi:nodetypes="sscccccs"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.94579601;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 725.61323,250.66552 c -1.48546,0.39803 -14.28214,48.46944 -13.19471,49.55689 0.46455,0.46455 9.8739,-1.79537 20.09892,-4.44938 l 13.04128,36.51559 9.35904,-6.75078 -12.27415,-32.5265 c 10.02003,-2.77577 19.16389,-5.5105 19.33179,-6.13707 0.39803,-1.48547 -34.87671,-36.60677 -36.36217,-36.20875 z"
+         id="path5803"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
